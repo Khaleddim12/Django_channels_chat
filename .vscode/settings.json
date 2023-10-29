@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "${basename}\\venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    
+}
